@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461706809 source:c:\users\kevin\documents\ucf\spring 2016\computer science 1\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1461708862 source:c:\users\kevin\documents\ucf\spring 2016\computer science 1\battleship\battleship.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
